@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15efb9bb313be0b9e3c62afbfada8924",
+    "revision": "c445dc2ddc1da489db9786b8ed834c8e",
     "url": "/index.html"
   },
   {
-    "revision": "ac74a43b5659884a88b7",
+    "revision": "a6e5e8541cb3b8fd014b",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "3d58d61b8fcb08672362",
+    "revision": "1dd07c55a4012744ad18",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "ce0093efd61e0a2c7aa6",
+    "revision": "3ae242e4a94227833d71",
     "url": "/static/css/main.2ec9f39c.chunk.css"
   },
   {
-    "revision": "eb8f2f121ce3ffe06f28",
-    "url": "/static/js/2.e85a2558.chunk.js"
+    "revision": "ef1dae51960605a4a4b5",
+    "url": "/static/js/2.6ceb8247.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.e85a2558.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6ceb8247.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac74a43b5659884a88b7",
-    "url": "/static/js/3.9aa2bafb.chunk.js"
+    "revision": "a6e5e8541cb3b8fd014b",
+    "url": "/static/js/3.7d7c9530.chunk.js"
   },
   {
-    "revision": "3d58d61b8fcb08672362",
-    "url": "/static/js/4.06dc9361.chunk.js"
+    "revision": "1dd07c55a4012744ad18",
+    "url": "/static/js/4.c559737f.chunk.js"
   },
   {
-    "revision": "ce0093efd61e0a2c7aa6",
-    "url": "/static/js/main.60016ecf.chunk.js"
+    "revision": "3ae242e4a94227833d71",
+    "url": "/static/js/main.e1370eb9.chunk.js"
   },
   {
-    "revision": "b1a4430a527115e96f9f",
-    "url": "/static/js/runtime-main.87182efe.js"
+    "revision": "9aa160c1263676c8b105",
+    "url": "/static/js/runtime-main.64b1da7c.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -98,6 +98,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
     "url": "/static/media/nextuLogo.829ad0a1.webp"
+  },
+  {
+    "revision": "c4133f027724b23b6db0d980fedcfc14",
+    "url": "/static/media/pspo.c4133f02.png"
   },
   {
     "revision": "215444505ec93d73664e6cb9f6fe1d1a",

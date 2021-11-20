@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.2ec9f39c.chunk.css",
-    "main.js": "/static/js/main.60016ecf.chunk.js",
-    "main.js.map": "/static/js/main.60016ecf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.87182efe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.87182efe.js.map",
-    "static/js/2.e85a2558.chunk.js": "/static/js/2.e85a2558.chunk.js",
-    "static/js/2.e85a2558.chunk.js.map": "/static/js/2.e85a2558.chunk.js.map",
+    "main.js": "/static/js/main.e1370eb9.chunk.js",
+    "main.js.map": "/static/js/main.e1370eb9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.64b1da7c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.64b1da7c.js.map",
+    "static/js/2.6ceb8247.chunk.js": "/static/js/2.6ceb8247.chunk.js",
+    "static/js/2.6ceb8247.chunk.js.map": "/static/js/2.6ceb8247.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
-    "static/js/3.9aa2bafb.chunk.js": "/static/js/3.9aa2bafb.chunk.js",
-    "static/js/3.9aa2bafb.chunk.js.map": "/static/js/3.9aa2bafb.chunk.js.map",
+    "static/js/3.7d7c9530.chunk.js": "/static/js/3.7d7c9530.chunk.js",
+    "static/js/3.7d7c9530.chunk.js.map": "/static/js/3.7d7c9530.chunk.js.map",
     "static/css/4.e91a4b36.chunk.css": "/static/css/4.e91a4b36.chunk.css",
-    "static/js/4.06dc9361.chunk.js": "/static/js/4.06dc9361.chunk.js",
-    "static/js/4.06dc9361.chunk.js.map": "/static/js/4.06dc9361.chunk.js.map",
+    "static/js/4.c559737f.chunk.js": "/static/js/4.c559737f.chunk.js",
+    "static/js/4.c559737f.chunk.js.map": "/static/js/4.c559737f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fe505b84bc92569f414e55ae380919a7.js": "/precache-manifest.fe505b84bc92569f414e55ae380919a7.js",
+    "precache-manifest.38c9f2c62f6b852177c712205f9010c8.js": "/precache-manifest.38c9f2c62f6b852177c712205f9010c8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.2ec9f39c.chunk.css.map": "/static/css/main.2ec9f39c.chunk.css.map",
-    "static/js/2.e85a2558.chunk.js.LICENSE.txt": "/static/js/2.e85a2558.chunk.js.LICENSE.txt",
+    "static/js/2.6ceb8247.chunk.js.LICENSE.txt": "/static/js/2.6ceb8247.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/IAEA_Award.jpeg": "/static/media/IAEA_Award.abb72426.jpeg",
     "static/media/aws.png": "/static/media/aws.13d526cc.png",
@@ -34,6 +34,7 @@
     "static/media/microsoftaspnet.png": "/static/media/microsoftaspnet.9b74c37a.png",
     "static/media/mongodb.jpeg": "/static/media/mongodb.c6f7b8fa.jpeg",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/pspo.png": "/static/media/pspo.c4133f02.png",
     "static/media/puneuniversity.jfif": "/static/media/puneuniversity.21544450.jfif",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/simcorp.png": "/static/media/simcorp.a3ace1ca.png",
@@ -42,9 +43,9 @@
     "static/media/zumtobelIOL.png": "/static/media/zumtobelIOL.ed55fbec.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.87182efe.js",
-    "static/js/2.e85a2558.chunk.js",
+    "static/js/runtime-main.64b1da7c.js",
+    "static/js/2.6ceb8247.chunk.js",
     "static/css/main.2ec9f39c.chunk.css",
-    "static/js/main.60016ecf.chunk.js"
+    "static/js/main.e1370eb9.chunk.js"
   ]
 }

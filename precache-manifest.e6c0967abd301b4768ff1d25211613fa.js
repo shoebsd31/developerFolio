@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6054d4931dedcdac457180151f2ed2f2",
+    "revision": "099ba07a7c837bbb33170981d775b9dd",
     "url": "/index.html"
   },
   {
-    "revision": "c3d9eebc8a0643e1a4f2",
+    "revision": "a47db44df9696cf88057",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "d3c271c06b66a31c4391",
+    "revision": "9f1c6c94afc87da9c8c6",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "db0734409bedc5a7fcd8",
+    "revision": "6724f73571a2bd92de80",
     "url": "/static/css/main.44b73942.chunk.css"
   },
   {
-    "revision": "56ff6ae476c5b7475e99",
-    "url": "/static/js/2.9c016a5c.chunk.js"
+    "revision": "d0764aecbf2fee16f63d",
+    "url": "/static/js/2.bd1f8401.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.9c016a5c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.bd1f8401.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3d9eebc8a0643e1a4f2",
-    "url": "/static/js/3.f4354b3a.chunk.js"
+    "revision": "a47db44df9696cf88057",
+    "url": "/static/js/3.d3dce8de.chunk.js"
   },
   {
-    "revision": "d3c271c06b66a31c4391",
-    "url": "/static/js/4.609d5419.chunk.js"
+    "revision": "9f1c6c94afc87da9c8c6",
+    "url": "/static/js/4.d79346de.chunk.js"
   },
   {
-    "revision": "db0734409bedc5a7fcd8",
-    "url": "/static/js/main.5d34a114.chunk.js"
+    "revision": "6724f73571a2bd92de80",
+    "url": "/static/js/main.e8cb781b.chunk.js"
   },
   {
-    "revision": "1ee39782b48f5c6b20bc",
-    "url": "/static/js/runtime-main.a43fb8ec.js"
+    "revision": "49af67685ac09f486f99",
+    "url": "/static/js/runtime-main.69d55b4b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13d526cc622aba257fcd00d1c339a57a",
     "url": "/static/media/aws.13d526cc.png"
+  },
+  {
+    "revision": "c5a04932ec7e6697919f21f744341760",
+    "url": "/static/media/azure-fundamentals.c5a04932.png"
   },
   {
     "revision": "27137293a10b4c37fa37d4130aa5472b",

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "099ba07a7c837bbb33170981d775b9dd",
+    "revision": "b1736a0969919331df33d4adf36acb21",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "6724f73571a2bd92de80",
+    "revision": "13a0b4284c8cf323e240",
     "url": "/static/css/main.44b73942.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.d79346de.chunk.js"
   },
   {
-    "revision": "6724f73571a2bd92de80",
-    "url": "/static/js/main.e8cb781b.chunk.js"
+    "revision": "13a0b4284c8cf323e240",
+    "url": "/static/js/main.57b5f5b6.chunk.js"
   },
   {
     "revision": "49af67685ac09f486f99",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/aws.13d526cc.png"
   },
   {
-    "revision": "c5a04932ec7e6697919f21f744341760",
-    "url": "/static/media/azure-fundamentals.c5a04932.png"
+    "revision": "6ecf6a37f87f10691c84e137a70fa0e2",
+    "url": "/static/media/azure-fundamentals.6ecf6a37.png"
   },
   {
     "revision": "27137293a10b4c37fa37d4130aa5472b",

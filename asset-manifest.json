@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.44b73942.chunk.css",
-    "main.js": "/static/js/main.34906597.chunk.js",
-    "main.js.map": "/static/js/main.34906597.chunk.js.map",
+    "main.js": "/static/js/main.3914cda9.chunk.js",
+    "main.js.map": "/static/js/main.3914cda9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b92ae085.js",
     "runtime-main.js.map": "/static/js/runtime-main.b92ae085.js.map",
-    "static/js/2.bd1f8401.chunk.js": "/static/js/2.bd1f8401.chunk.js",
-    "static/js/2.bd1f8401.chunk.js.map": "/static/js/2.bd1f8401.chunk.js.map",
+    "static/js/2.b7f4e333.chunk.js": "/static/js/2.b7f4e333.chunk.js",
+    "static/js/2.b7f4e333.chunk.js.map": "/static/js/2.b7f4e333.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
     "static/js/3.33e2a2f7.chunk.js": "/static/js/3.33e2a2f7.chunk.js",
     "static/js/3.33e2a2f7.chunk.js.map": "/static/js/3.33e2a2f7.chunk.js.map",
@@ -14,12 +14,12 @@
     "static/js/4.d79346de.chunk.js": "/static/js/4.d79346de.chunk.js",
     "static/js/4.d79346de.chunk.js.map": "/static/js/4.d79346de.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3439fba2b1fe796e53213984badae1a5.js": "/precache-manifest.3439fba2b1fe796e53213984badae1a5.js",
+    "precache-manifest.b4c42f14346d497b00ab0769b94f4ec9.js": "/precache-manifest.b4c42f14346d497b00ab0769b94f4ec9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.44b73942.chunk.css.map": "/static/css/main.44b73942.chunk.css.map",
-    "static/js/2.bd1f8401.chunk.js.LICENSE.txt": "/static/js/2.bd1f8401.chunk.js.LICENSE.txt",
+    "static/js/2.b7f4e333.chunk.js.LICENSE.txt": "/static/js/2.b7f4e333.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/IAEA_Award.jpeg": "/static/media/IAEA_Award.abb72426.jpeg",
     "static/media/aws.png": "/static/media/aws.13d526cc.png",
@@ -46,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b92ae085.js",
-    "static/js/2.bd1f8401.chunk.js",
+    "static/js/2.b7f4e333.chunk.js",
     "static/css/main.44b73942.chunk.css",
-    "static/js/main.34906597.chunk.js"
+    "static/js/main.3914cda9.chunk.js"
   ]
 }

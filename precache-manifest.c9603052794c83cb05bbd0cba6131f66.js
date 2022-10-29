@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b515985bafd49ae4324772e396bb7ae7",
+    "revision": "f425f3bc25f36514f6101ad08e10f255",
     "url": "/index.html"
   },
   {
-    "revision": "f610abb7f124560833b9",
+    "revision": "b8df7c3bd87c12c6876b",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "9f1c6c94afc87da9c8c6",
+    "revision": "2b29f56a9a13606584ef",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "547bb0657fadb24fb1c8",
+    "revision": "3c6c120a35157328b9ba",
     "url": "/static/css/main.44b73942.chunk.css"
   },
   {
-    "revision": "f64a57c75409cf062ed6",
-    "url": "/static/js/2.b7f4e333.chunk.js"
+    "revision": "4f6f167f0b3654a213ea",
+    "url": "/static/js/2.7501b451.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.b7f4e333.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7501b451.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f610abb7f124560833b9",
-    "url": "/static/js/3.716c0191.chunk.js"
+    "revision": "b8df7c3bd87c12c6876b",
+    "url": "/static/js/3.accaff63.chunk.js"
   },
   {
-    "revision": "9f1c6c94afc87da9c8c6",
-    "url": "/static/js/4.d79346de.chunk.js"
+    "revision": "2b29f56a9a13606584ef",
+    "url": "/static/js/4.a5ad0c66.chunk.js"
   },
   {
-    "revision": "547bb0657fadb24fb1c8",
-    "url": "/static/js/main.23604c6d.chunk.js"
+    "revision": "3c6c120a35157328b9ba",
+    "url": "/static/js/main.167db43e.chunk.js"
   },
   {
-    "revision": "6c0912e99a649917b846",
-    "url": "/static/js/runtime-main.811d3098.js"
+    "revision": "7cd91d72a9c965f60ec4",
+    "url": "/static/js/runtime-main.c2e10b5b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13d526cc622aba257fcd00d1c339a57a",
     "url": "/static/media/aws.13d526cc.png"
+  },
+  {
+    "revision": "506096df78ed5c3d27b461eef74eee61",
+    "url": "/static/media/azure-developer-associate-600x600.506096df.png"
   },
   {
     "revision": "6ecf6a37f87f10691c84e137a70fa0e2",
@@ -106,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
     "url": "/static/media/nextuLogo.829ad0a1.webp"
+  },
+  {
+    "revision": "5a58be330c1fc57f81c6091d7bb5dd40",
+    "url": "/static/media/prince2-practitioner.5a58be33.png"
   },
   {
     "revision": "c4133f027724b23b6db0d980fedcfc14",

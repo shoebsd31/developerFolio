@@ -23,7 +23,7 @@ const greeting = {
   username: "Shoeb Sayyed",
   title: "Hi all, I'm Shoeb",
   subTitle: emoji("I envision solutions for challenging💪 Business problems."),
-  resumeLink: "https://1drv.ms/w/s!Aj8z52Cmgm9chXR_hQQ1aLr8vT40?e=Q7xLdt", // Set to empty to hide the button
+  resumeLink: "https://1drv.ms/w/s!Aj8z52Cmgm9chXTTwUVya9fWIeAw?e=aUPwe9", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 

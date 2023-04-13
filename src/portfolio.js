@@ -22,7 +22,9 @@ const illustration = {
 const greeting = {
   username: "Shoeb Sayyed",
   title: "Hi all, I'm Shoeb",
-  subTitle: emoji("Designing solutions that solves problems, one blueprint at a time"),
+  subTitle: emoji(
+    "Designing solutions that solves problems, one blueprint at a time"
+  ),
   resumeLink: "https://1drv.ms/b/s!Aj8z52Cmgm9chh7hS32MXu891PbM?e=iDcpwe", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };

@@ -41,7 +41,7 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <a
-                    href={require("./resume.pdf")}
+                    href="https://onedrive.live.com/embed?resid=5C6F82A660E7333F%21798&authkey=!AEjRUwEFkJoGYF8&em=2"
                     download="Resume.pdf"
                     className="download-link-button"
                   >

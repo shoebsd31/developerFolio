@@ -23,7 +23,7 @@ const greeting = {
   username: "Shoeb Sayyed",
   title: "Hi all, I'm Shoeb",
   subTitle: emoji(
-    "Designing solutions that solves problems, one blueprint at a time"
+    "Architecting AI-powered cloud solutions with Power Platform for enterprise automation"
   ),
   resumeLink: "https://1drv.ms/b/s!Aj8z52Cmgm9chh7hS32MXu891PbM?e=iDcpwe", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -47,9 +47,9 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CURRENTLY WORKING AS A SOLUTION ARCHITECT ON MULTIPLE PROJECTS",
   skills: [
-    emoji("⚡ Develop highly interactive web and mobile applications"),
-    emoji("⚡ Currently exploring solutions using power platform"),
-    emoji("⚡ Published an Amazon Alexa skills app on German skill store"),
+    emoji("⚡ Designed and implemented AI-powered solutions to automate systems and business processes"),
+    emoji("⚡ Specialized in Power Platform, delivering AI-driven automation solutions for enterprise workflows"),
+    emoji("⚡ Strongly recommend implementing AI-based automation where it is necessary."),
     emoji(
       "⚡ Using AWS/Azure Cloud services for mobile/application development"
     )
@@ -162,12 +162,12 @@ const workExperiences = {
       date: "December 2021 – Present",
       desc: "I work on multiple projects in the MTIT department",
       descBullets: [
-        "Migrate source code from TFS to Git repository",
-        "Update the CI/CD pipeline on Azure devops to work with YAML and templates",
-        "Used Power Automate for invoices automation",
-        "Resolved incidents reported by users",
-        "Participated in the discussion and implementation of system design",
-        "Proposed usage of industry standards for software development"
+        "Implemented Azure’s Document Intelligence to automate document processing using Microsoft AI.",
+        "Developed Azure Logic Apps to continuously train document models based on user feedback, enhancing accuracy over time",
+        "Integrated a React-based client-side application into Power Apps to provide an intuitive user experience with OCR metadata recognition",
+        "Optimized document processing workflows to streamline automation and improve operational efficiency",
+        "Leveraged Power Platform’s data gateway for seamless integration with on-premises infrastructure",
+        "Streamlined operations with Power Automate flows."
       ]
     },
     {
@@ -177,7 +177,7 @@ const workExperiences = {
       date: "January 2020 – December 2021",
       desc: "The project named HANA is responsible to develop metadata driven document management system",
       descBullets: [
-        "Develop POC’s for different business use cases ",
+        "Develop POC’s for different business use cases",
         "Present the POC’s to different stake holders involved in business",
         "Research and Analysis on solving business problems with metadata driven approach"
       ]

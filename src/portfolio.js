@@ -47,9 +47,15 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CURRENTLY WORKING AS A SOLUTION ARCHITECT ON MULTIPLE PROJECTS",
   skills: [
-    emoji("⚡ Designed and implemented AI-powered solutions to automate systems and business processes"),
-    emoji("⚡ Specialized in Power Platform, delivering AI-driven automation solutions for enterprise workflows"),
-    emoji("⚡ Strongly recommend implementing AI-based automation where it is necessary."),
+    emoji(
+      "⚡ Designed and implemented AI-powered solutions to automate systems and business processes"
+    ),
+    emoji(
+      "⚡ Specialized in Power Platform, delivering AI-driven automation solutions for enterprise workflows"
+    ),
+    emoji(
+      "⚡ Strongly recommend implementing AI-based automation where it is necessary."
+    ),
     emoji(
       "⚡ Using AWS/Azure Cloud services for mobile/application development"
     )
